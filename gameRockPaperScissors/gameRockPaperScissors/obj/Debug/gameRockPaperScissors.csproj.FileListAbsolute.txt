@@ -1,0 +1,8 @@
+C:\Users\55219\OneDrive\Documentos\GitHub\Rock_Paper_Scissors\gameRockPaperScissors\gameRockPaperScissors\bin\Debug\gameRockPaperScissors.exe.config
+C:\Users\55219\OneDrive\Documentos\GitHub\Rock_Paper_Scissors\gameRockPaperScissors\gameRockPaperScissors\bin\Debug\gameRockPaperScissors.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\Rock_Paper_Scissors\gameRockPaperScissors\gameRockPaperScissors\bin\Debug\gameRockPaperScissors.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\Rock_Paper_Scissors\gameRockPaperScissors\gameRockPaperScissors\obj\Debug\gameRockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\Rock_Paper_Scissors\gameRockPaperScissors\gameRockPaperScissors\obj\Debug\gameRockPaperScissors.csproj.SuggestedBindingRedirects.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\Rock_Paper_Scissors\gameRockPaperScissors\gameRockPaperScissors\obj\Debug\gameRockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\Rock_Paper_Scissors\gameRockPaperScissors\gameRockPaperScissors\obj\Debug\gameRockPaperScissors.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\Rock_Paper_Scissors\gameRockPaperScissors\gameRockPaperScissors\obj\Debug\gameRockPaperScissors.pdb
