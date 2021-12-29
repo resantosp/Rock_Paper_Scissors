@@ -128,8 +128,8 @@ namespace gameRockPaperScissors
                 else if (scorePC == 3)
                 {
                     Console.WriteLine("============ PONTUAÇÃO FINAL =============");
-                    Console.WriteLine($"PC: {scorePC} pontos.");
-                    Console.WriteLine($"JOGADOR: {scorePlayer} pontos.");
+                    Console.WriteLine($"PC:\t{scorePC} pontos.");
+                    Console.WriteLine($"JOGADOR:\t{scorePlayer} pontos.");
                     Console.WriteLine("== UUUUH, não foi dessa vez! PC venceu! ==");
                 }
 
@@ -139,6 +139,7 @@ namespace gameRockPaperScissors
                 if (loop == "S")
                 {
                     playAgain = true;
+                    Console.Clear();
                 }
                 else if (loop == "N")
                 {
