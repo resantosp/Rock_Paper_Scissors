@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "14c328ab-7096-4ad9-b057-4e795bc9db69": {
+      "ProjectGuid": "14c328ab-7096-4ad9-b057-4e795bc9db69",
+      "DisplayName": "gameRockPaperScissors",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
