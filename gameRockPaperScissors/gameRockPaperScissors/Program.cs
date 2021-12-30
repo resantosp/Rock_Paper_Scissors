@@ -21,7 +21,7 @@ namespace gameRockPaperScissors
             int randomInt;
             bool playAgain = true;
 
-            Console.WriteLine("===== BEM-VINDO(A) AO JOGO PEDRA | PAPEL | TESOURA =====");
+            Console.WriteLine("===== PEDRA | PAPEL | TESOURA =====");
             Console.WriteLine("\n");
 
             while (playAgain == true)
